@@ -1,0 +1,616 @@
+id_venda,produto,valor,data_venda,filial
+1,Bebida,33.19,2024-06-09,Centro
+2,Sobremesa,167.69,2024-02-19,Centro
+3,Prato Executivo,100.81,2024-03-11,Centro
+4,Combo Família,125.29,2024-02-04,Centro
+5,Prato Executivo,76.52,2024-01-27,Centro
+6,Bebida,24.76,2024-02-15,Centro
+7,Bebida,173.07,2024-01-25,Centro
+8,Prato Executivo,179.11,2024-05-11,Centro
+9,Combo Família,75.15,2024-04-17,Centro
+10,Sobremesa,170.74,2024-03-11,Centro
+11,Bebida,42.67,2024-04-08,Centro
+12,Combo Família,40.52,2024-04-18,Centro
+13,Bebida,27.06,2024-02-03,Centro
+14,Combo Família,79.56,2024-02-23,Centro
+15,Prato Executivo,23.63,2024-06-07,Centro
+16,Bebida,80.12,2024-01-03,Centro
+17,Combo Família,37.83,2024-06-21,Centro
+18,Prato Executivo,135.54,2024-06-22,Centro
+19,Combo Família,152.5,2024-02-15,Centro
+20,Prato Executivo,128.49,2024-02-27,Centro
+21,Bebida,48.08,2024-02-07,Centro
+22,Prato Executivo,141.53,2024-04-10,Centro
+23,Combo Família,56.17,2024-02-08,Centro
+24,Prato Executivo,140.32,2024-05-22,Centro
+25,Combo Família,108.62,2024-03-10,Centro
+26,Bebida,75.51,2024-06-23,Centro
+27,Lanche,28.78,2024-06-02,Centro
+28,Combo Família,151.54,2024-03-13,Centro
+29,Bebida,170.04,2024-04-17,Centro
+30,Prato Executivo,124.88,2024-01-05,Centro
+31,Combo Família,174.15,2024-01-13,Centro
+32,Bebida,169.13,2024-04-01,Centro
+33,Prato Executivo,47.11,2024-03-26,Centro
+34,Sobremesa,135.65,2024-03-12,Centro
+35,Sobremesa,72.64,2024-01-17,Centro
+36,Sobremesa,95.44,2024-05-31,Centro
+37,Combo Família,40.9,2024-03-14,Centro
+38,Prato Executivo,175.84,2024-03-25,Centro
+39,Bebida,134.81,2024-03-13,Centro
+40,Lanche,59.04,2024-03-30,Centro
+41,Combo Família,76.29,2024-04-26,Centro
+42,Sobremesa,84.71,2024-05-17,Centro
+43,Lanche,138.34,2024-04-08,Centro
+44,Prato Executivo,167.74,2024-01-30,Centro
+45,Sobremesa,68.04,2024-06-06,Centro
+46,Lanche,92.96,2024-02-21,Centro
+47,Lanche,112.88,2024-01-03,Centro
+48,Bebida,79.9,2024-01-08,Centro
+49,Bebida,98.19,2024-05-19,Centro
+50,Bebida,32.44,2024-03-10,Centro
+51,Prato Executivo,42.67,2024-01-05,Centro
+52,Lanche,81.18,2024-05-26,Centro
+53,Combo Família,165.96,2024-02-24,Centro
+54,Combo Família,72.64,2024-06-25,Centro
+55,Bebida,56.22,2024-06-07,Centro
+56,Lanche,137.57,2024-01-09,Centro
+57,Lanche,171.61,2024-05-04,Centro
+58,Bebida,90.76,2024-04-18,Centro
+59,Prato Executivo,16.42,2024-01-31,Centro
+60,Prato Executivo,128.54,2024-03-02,Centro
+61,Sobremesa,83.49,2024-03-29,Centro
+62,Prato Executivo,126.15,2024-01-27,Centro
+63,Sobremesa,60.82,2024-05-09,Centro
+64,Combo Família,15.4,2024-02-19,Centro
+65,Prato Executivo,71.84,2024-06-17,Centro
+66,Lanche,131.29,2024-05-24,Centro
+67,Bebida,79.86,2024-04-24,Centro
+68,Combo Família,51.16,2024-01-22,Centro
+69,Prato Executivo,91.56,2024-01-05,Centro
+70,Prato Executivo,139.14,2024-01-27,Centro
+71,Prato Executivo,34.71,2024-03-30,Centro
+72,Bebida,129.14,2024-05-20,Centro
+73,Lanche,125.11,2024-01-28,Centro
+74,Bebida,76.17,2024-05-07,Centro
+75,Sobremesa,175.11,2024-01-09,Centro
+76,Combo Família,162.63,2024-02-17,Centro
+77,Combo Família,67.17,2024-04-17,Centro
+78,Lanche,20.13,2024-05-29,Centro
+79,Bebida,65.87,2024-05-19,Centro
+80,Sobremesa,48.78,2024-04-05,Centro
+81,Sobremesa,105.3,2024-01-07,Centro
+82,Lanche,166.59,2024-02-22,Centro
+83,Lanche,158.61,2024-05-21,Centro
+84,Combo Família,65.46,2024-01-15,Centro
+85,Prato Executivo,85.72,2024-05-07,Centro
+86,Combo Família,21.03,2024-05-06,Centro
+87,Prato Executivo,104.79,2024-05-15,Centro
+88,Bebida,25.46,2024-02-09,Centro
+89,Prato Executivo,169.87,2024-02-14,Centro
+90,Combo Família,158.04,2024-02-05,Centro
+91,Sobremesa,50.34,2024-03-11,Centro
+92,Sobremesa,130.4,2024-04-04,Centro
+93,Bebida,108.72,2024-01-22,Centro
+94,Combo Família,147.22,2024-04-12,Centro
+95,Prato Executivo,93.48,2024-02-13,Centro
+96,Bebida,46.64,2024-04-11,Centro
+97,Bebida,120.57,2024-02-24,Centro
+98,Lanche,28.25,2024-06-20,Centro
+99,Lanche,111.46,2024-02-27,Centro
+100,Lanche,50.1,2024-06-05,Centro
+101,Sobremesa,128.01,2024-02-01,Centro
+102,Lanche,151.63,2024-01-16,Centro
+103,Sobremesa,33.07,2024-02-03,Centro
+104,Lanche,81.04,2024-03-16,Centro
+105,Prato Executivo,136.03,2024-06-11,Centro
+106,Sobremesa,42.01,2024-02-01,Centro
+107,Bebida,108.48,2024-05-21,Centro
+108,Prato Executivo,125.85,2024-05-05,Centro
+109,Combo Família,73.54,2024-03-03,Centro
+110,Lanche,152.28,2024-03-01,Centro
+111,Sobremesa,99.26,2024-06-19,Centro
+112,Lanche,118.45,2024-05-08,Centro
+113,Prato Executivo,38.24,2024-02-13,Centro
+114,Lanche,18.82,2024-06-13,Centro
+115,Bebida,23.37,2024-03-14,Centro
+116,Bebida,164.15,2024-01-15,Centro
+117,Bebida,160.64,2024-05-26,Centro
+118,Prato Executivo,148.25,2024-06-05,Centro
+119,Lanche,47.94,2024-03-20,Centro
+120,Lanche,101.7,2024-05-06,Centro
+121,Bebida,146.36,2024-02-12,Centro
+122,Lanche,126.32,2024-06-02,Centro
+123,Lanche,34.06,2024-03-07,Centro
+124,Bebida,162.76,2024-02-18,Centro
+125,Sobremesa,41.51,2024-03-31,Centro
+126,Lanche,43.35,2024-02-18,Centro
+127,Combo Família,163.67,2024-04-21,Centro
+128,Sobremesa,94.96,2024-05-14,Centro
+129,Lanche,76.53,2024-03-14,Centro
+130,Lanche,106.35,2024-05-21,Centro
+131,Prato Executivo,176.93,2024-03-18,Centro
+132,Combo Família,34.74,2024-06-23,Centro
+133,Prato Executivo,139.9,2024-02-17,Centro
+134,Lanche,70.16,2024-05-06,Centro
+135,Sobremesa,34.31,2024-04-06,Centro
+136,Combo Família,84.62,2024-06-18,Centro
+137,Combo Família,105.54,2024-02-09,Centro
+138,Prato Executivo,48.98,2024-02-05,Centro
+139,Prato Executivo,81.87,2024-06-05,Centro
+140,Combo Família,119.89,2024-06-11,Centro
+141,Sobremesa,110.11,2024-05-14,Centro
+142,Sobremesa,134.32,2024-03-26,Centro
+143,Combo Família,153.01,2024-03-14,Centro
+144,Prato Executivo,82.51,2024-04-29,Centro
+145,Bebida,84.79,2024-05-14,Centro
+146,Lanche,96.95,2024-02-19,Centro
+147,Lanche,108.45,2024-01-02,Centro
+148,Sobremesa,32.87,2024-01-14,Centro
+149,Combo Família,66.58,2024-03-03,Centro
+150,Lanche,43.36,2024-05-02,Centro
+151,Lanche,78.67,2024-03-20,Centro
+152,Prato Executivo,175.6,2024-04-21,Centro
+153,Sobremesa,111.15,2024-03-25,Centro
+154,Combo Família,85.85,2024-02-15,Centro
+155,Lanche,108.38,2024-05-14,Centro
+156,Bebida,125.4,2024-05-10,Centro
+157,Combo Família,86.77,2024-06-22,Centro
+158,Bebida,88.87,2024-05-28,Centro
+159,Sobremesa,130.73,2024-03-09,Centro
+160,Sobremesa,25.04,2024-05-06,Centro
+161,Prato Executivo,104.11,2024-03-04,Centro
+162,Lanche,105.31,2024-06-06,Centro
+163,Sobremesa,139.86,2024-04-19,Centro
+164,Lanche,177.14,2024-05-30,Centro
+165,Combo Família,146.3,2024-02-20,Centro
+166,Sobremesa,98.13,2024-01-03,Centro
+167,Prato Executivo,42.96,2024-01-26,Centro
+168,Lanche,112.06,2024-04-05,Centro
+169,Sobremesa,152.66,2024-06-22,Centro
+170,Bebida,168.85,2024-04-22,Centro
+171,Combo Família,151.18,2024-05-25,Centro
+172,Bebida,46.18,2024-03-25,Centro
+173,Combo Família,132.58,2024-06-21,Centro
+174,Prato Executivo,160.23,2024-06-18,Centro
+175,Prato Executivo,127.37,2024-02-09,Centro
+176,Combo Família,128.15,2024-06-04,Centro
+177,Sobremesa,97.53,2024-01-04,Centro
+178,Prato Executivo,120.1,2024-04-16,Centro
+179,Sobremesa,63.57,2024-03-19,Centro
+180,Bebida,29.65,2024-02-24,Centro
+181,Combo Família,151.57,2024-06-17,Centro
+182,Bebida,170.62,2024-04-29,Centro
+183,Prato Executivo,156.38,2024-01-25,Centro
+184,Prato Executivo,70.1,2024-01-26,Centro
+185,Sobremesa,30.43,2024-01-22,Centro
+186,Bebida,61.22,2024-02-24,Centro
+187,Bebida,154.07,2024-01-13,Centro
+188,Combo Família,123.21,2024-02-17,Centro
+189,Sobremesa,174.5,2024-05-17,Centro
+190,Prato Executivo,71.54,2024-06-06,Centro
+191,Prato Executivo,105.99,2024-05-21,Centro
+192,Lanche,145.36,2024-03-30,Centro
+193,Combo Família,53.61,2024-05-05,Centro
+194,Sobremesa,174.07,2024-06-18,Centro
+195,Sobremesa,112.75,2024-01-10,Centro
+196,Prato Executivo,16.3,2024-06-11,Centro
+197,Bebida,19.15,2024-05-10,Centro
+198,Sobremesa,160.57,2024-03-10,Centro
+199,Bebida,121.47,2024-03-21,Centro
+200,Prato Executivo,140.91,2024-03-19,Centro
+201,Lanche,144.36,2024-01-29,Centro
+202,Bebida,84.38,2024-02-11,Centro
+203,Prato Executivo,146.77,2024-02-23,Centro
+204,Lanche,169.69,2024-01-02,Centro
+205,Lanche,43.41,2024-03-31,Centro
+206,Sobremesa,141.08,2024-03-26,Centro
+207,Combo Família,65.79,2024-02-29,Centro
+208,Sobremesa,68.05,2024-02-01,Centro
+209,Bebida,83.1,2024-06-23,Centro
+210,Prato Executivo,157.51,2024-05-02,Centro
+211,Combo Família,18.64,2024-03-26,Centro
+212,Sobremesa,86.6,2024-05-10,Centro
+213,Lanche,127.21,2024-03-07,Centro
+214,Prato Executivo,33.22,2024-02-08,Centro
+215,Sobremesa,145.72,2024-05-01,Centro
+216,Combo Família,170.41,2024-05-18,Centro
+217,Bebida,30.0,2024-04-27,Centro
+218,Lanche,40.24,2024-04-11,Centro
+219,Bebida,175.73,2024-01-01,Centro
+220,Sobremesa,47.65,2024-04-24,Centro
+221,Combo Família,28.03,2024-04-21,Centro
+222,Sobremesa,172.11,2024-03-15,Centro
+223,Lanche,162.28,2024-02-13,Centro
+224,Combo Família,123.19,2024-06-25,Centro
+225,Prato Executivo,105.99,2024-03-08,Centro
+226,Lanche,166.67,2024-02-18,Centro
+227,Sobremesa,123.16,2024-05-07,Centro
+228,Combo Família,123.64,2024-03-27,Centro
+229,Combo Família,154.21,2024-04-10,Centro
+230,Sobremesa,122.79,2024-04-26,Centro
+231,Sobremesa,98.11,2024-03-07,Centro
+232,Lanche,79.3,2024-01-28,Centro
+233,Lanche,98.02,2024-01-31,Centro
+234,Sobremesa,101.21,2024-06-18,Centro
+235,Sobremesa,74.54,2024-03-31,Centro
+236,Lanche,88.94,2024-03-16,Centro
+237,Bebida,147.31,2024-02-27,Centro
+238,Prato Executivo,83.72,2024-05-09,Centro
+239,Bebida,19.22,2024-06-13,Centro
+240,Bebida,61.7,2024-05-18,Centro
+241,Prato Executivo,53.24,2024-04-06,Centro
+242,Lanche,145.94,2024-03-26,Centro
+243,Prato Executivo,89.13,2024-06-04,Centro
+244,Sobremesa,61.25,2024-06-03,Centro
+245,Sobremesa,148.77,2024-03-11,Centro
+246,Bebida,18.17,2024-06-22,Centro
+247,Lanche,43.75,2024-05-28,Centro
+248,Prato Executivo,151.45,2024-06-01,Centro
+249,Prato Executivo,105.86,2024-01-11,Centro
+250,Bebida,142.65,2024-01-24,Centro
+251,Lanche,153.3,2024-02-23,Centro
+252,Lanche,170.42,2024-05-17,Centro
+253,Bebida,25.47,2024-01-15,Centro
+254,Bebida,146.87,2024-01-15,Centro
+255,Bebida,131.95,2024-01-06,Centro
+256,Lanche,49.16,2024-02-04,Centro
+257,Combo Família,168.73,2024-06-14,Centro
+258,Sobremesa,81.69,2024-05-09,Centro
+259,Combo Família,161.46,2024-05-09,Centro
+260,Sobremesa,114.84,2024-02-22,Centro
+261,Prato Executivo,101.91,2024-04-22,Centro
+262,Prato Executivo,41.32,2024-05-20,Centro
+263,Lanche,165.86,2024-04-05,Centro
+264,Bebida,106.85,2024-06-03,Centro
+265,Sobremesa,16.01,2024-04-12,Centro
+266,Lanche,18.02,2024-02-28,Centro
+267,Combo Família,143.31,2024-04-24,Centro
+268,Bebida,41.72,2024-06-18,Centro
+269,Combo Família,113.79,2024-05-28,Centro
+270,Prato Executivo,127.38,2024-03-30,Centro
+271,Combo Família,61.1,2024-04-17,Centro
+272,Sobremesa,108.94,2024-06-24,Centro
+273,Bebida,54.64,2024-05-14,Centro
+274,Bebida,171.14,2024-03-31,Centro
+275,Sobremesa,156.93,2024-02-20,Centro
+276,Lanche,62.53,2024-06-12,Centro
+277,Prato Executivo,102.25,2024-06-24,Centro
+278,Combo Família,97.6,2024-01-13,Centro
+279,Combo Família,173.4,2024-01-06,Centro
+280,Combo Família,80.01,2024-01-21,Centro
+281,Sobremesa,107.77,2024-03-10,Centro
+282,Sobremesa,168.24,2024-01-29,Centro
+283,Lanche,41.86,2024-06-07,Centro
+284,Combo Família,105.83,2024-06-13,Centro
+285,Prato Executivo,32.44,2024-02-02,Centro
+286,Lanche,116.89,2024-05-29,Centro
+287,Combo Família,75.34,2024-01-26,Centro
+288,Sobremesa,174.66,2024-05-21,Centro
+289,Combo Família,83.54,2024-03-06,Centro
+290,Sobremesa,37.47,2024-01-08,Centro
+291,Lanche,152.61,2024-03-18,Centro
+292,Prato Executivo,150.44,2024-05-28,Centro
+293,Prato Executivo,129.65,2024-06-17,Centro
+294,Sobremesa,138.55,2024-01-22,Centro
+295,Bebida,58.68,2024-05-30,Centro
+296,Lanche,120.94,2024-02-22,Centro
+297,Combo Família,21.27,2024-03-24,Centro
+298,Sobremesa,47.49,2024-01-20,Centro
+299,Bebida,168.83,2024-06-24,Centro
+300,Combo Família,136.97,2024-05-22,Centro
+301,Lanche,53.06,2024-04-25,Centro
+302,Prato Executivo,33.38,2024-05-10,Centro
+303,Sobremesa,171.57,2024-06-06,Centro
+304,Lanche,33.51,2024-01-26,Centro
+305,Bebida,57.42,2024-02-14,Centro
+306,Lanche,45.13,2024-01-07,Centro
+307,Bebida,16.23,2024-03-29,Centro
+308,Prato Executivo,66.83,2024-03-29,Centro
+309,Bebida,175.74,2024-01-06,Centro
+310,Bebida,71.41,2024-04-29,Centro
+311,Prato Executivo,98.21,2024-01-02,Centro
+312,Combo Família,138.08,2024-05-22,Centro
+313,Bebida,105.93,2024-05-06,Centro
+314,Sobremesa,137.69,2024-05-26,Centro
+315,Bebida,124.17,2024-01-22,Centro
+316,Combo Família,115.41,2024-06-05,Centro
+317,Sobremesa,122.19,2024-04-08,Centro
+318,Lanche,146.86,2024-06-04,Centro
+319,Lanche,132.18,2024-05-05,Centro
+320,Lanche,145.64,2024-04-28,Centro
+321,Prato Executivo,39.02,2024-01-06,Centro
+322,Combo Família,126.82,2024-05-04,Centro
+323,Sobremesa,136.61,2024-03-21,Centro
+324,Sobremesa,64.49,2024-06-01,Centro
+325,Prato Executivo,159.31,2024-05-03,Centro
+326,Combo Família,65.28,2024-01-14,Centro
+327,Combo Família,55.23,2024-06-09,Centro
+328,Prato Executivo,158.07,2024-01-12,Centro
+329,Bebida,55.76,2024-02-23,Centro
+330,Combo Família,83.56,2024-02-09,Centro
+331,Combo Família,75.71,2024-06-24,Centro
+332,Prato Executivo,163.18,2024-01-28,Centro
+333,Lanche,90.11,2024-06-01,Centro
+334,Lanche,129.56,2024-02-09,Centro
+335,Sobremesa,146.02,2024-04-27,Centro
+336,Combo Família,118.6,2024-01-17,Centro
+337,Combo Família,170.71,2024-03-11,Centro
+338,Lanche,147.41,2024-04-22,Centro
+339,Sobremesa,81.03,2024-05-07,Centro
+340,Combo Família,171.88,2024-06-06,Centro
+341,Lanche,101.55,2024-05-26,Centro
+342,Sobremesa,18.73,2024-04-03,Centro
+343,Prato Executivo,57.9,2024-02-24,Centro
+344,Sobremesa,117.59,2024-02-17,Centro
+345,Prato Executivo,40.87,2024-06-27,Centro
+346,Lanche,111.37,2024-04-19,Centro
+347,Bebida,74.66,2024-06-12,Centro
+348,Combo Família,103.17,2024-03-19,Centro
+349,Bebida,15.31,2024-03-28,Centro
+350,Combo Família,154.99,2024-05-28,Centro
+351,Sobremesa,74.72,2024-05-10,Centro
+352,Bebida,38.13,2024-02-06,Centro
+353,Combo Família,87.26,2024-04-04,Centro
+354,Bebida,95.22,2024-02-08,Centro
+355,Prato Executivo,120.17,2024-05-16,Centro
+356,Bebida,101.55,2024-01-06,Centro
+357,Sobremesa,22.18,2024-05-28,Centro
+358,Combo Família,158.8,2024-06-16,Centro
+359,Bebida,90.32,2024-01-05,Centro
+360,Prato Executivo,27.7,2024-04-23,Centro
+361,Lanche,142.52,2024-01-15,Centro
+362,Lanche,123.93,2024-03-05,Centro
+363,Combo Família,122.16,2024-03-01,Centro
+364,Bebida,85.44,2024-04-03,Centro
+365,Prato Executivo,82.73,2024-06-14,Centro
+366,Bebida,103.5,2024-03-24,Centro
+367,Sobremesa,23.35,2024-03-12,Centro
+368,Prato Executivo,64.33,2024-01-17,Centro
+369,Bebida,178.0,2024-06-08,Centro
+370,Prato Executivo,124.26,2024-02-26,Centro
+371,Lanche,84.12,2024-03-24,Centro
+372,Lanche,51.69,2024-01-17,Centro
+373,Combo Família,137.96,2024-02-21,Centro
+374,Bebida,57.95,2024-04-09,Centro
+375,Lanche,41.79,2024-06-11,Centro
+376,Combo Família,40.49,2024-02-29,Centro
+377,Bebida,135.33,2024-04-10,Centro
+378,Lanche,121.06,2024-06-06,Centro
+379,Prato Executivo,26.52,2024-03-05,Centro
+380,Sobremesa,33.98,2024-02-23,Centro
+381,Bebida,119.58,2024-01-08,Centro
+382,Prato Executivo,109.23,2024-06-12,Centro
+383,Prato Executivo,128.19,2024-01-20,Centro
+384,Prato Executivo,44.38,2024-02-08,Centro
+385,Prato Executivo,134.89,2024-01-26,Centro
+386,Bebida,169.46,2024-05-07,Centro
+387,Prato Executivo,114.17,2024-03-06,Centro
+388,Prato Executivo,47.36,2024-05-06,Centro
+389,Lanche,127.12,2024-04-19,Centro
+390,Sobremesa,71.61,2024-01-03,Centro
+391,Lanche,23.13,2024-02-25,Centro
+392,Bebida,64.89,2024-01-01,Centro
+393,Lanche,164.42,2024-01-12,Centro
+394,Combo Família,82.84,2024-03-26,Centro
+395,Lanche,157.67,2024-02-17,Centro
+396,Lanche,98.93,2024-01-17,Centro
+397,Combo Família,100.3,2024-03-14,Centro
+398,Prato Executivo,15.86,2024-03-22,Centro
+399,Sobremesa,120.12,2024-06-27,Centro
+400,Sobremesa,32.79,2024-04-29,Centro
+401,Bebida,93.99,2024-03-11,Centro
+402,Bebida,57.95,2024-03-26,Centro
+403,Prato Executivo,79.74,2024-01-17,Centro
+404,Bebida,103.62,2024-03-10,Centro
+405,Lanche,17.39,2024-04-14,Centro
+406,Sobremesa,61.96,2024-01-04,Centro
+407,Lanche,178.29,2024-06-14,Centro
+408,Bebida,24.47,2024-04-02,Centro
+409,Lanche,67.7,2024-05-21,Centro
+410,Lanche,68.03,2024-02-19,Centro
+411,Combo Família,77.6,2024-05-30,Centro
+412,Lanche,127.99,2024-03-07,Centro
+413,Combo Família,55.88,2024-06-16,Centro
+414,Lanche,90.94,2024-04-03,Centro
+415,Lanche,121.4,2024-04-24,Centro
+416,Prato Executivo,68.18,2024-02-06,Centro
+417,Combo Família,171.55,2024-06-28,Centro
+418,Sobremesa,176.65,2024-02-04,Centro
+419,Prato Executivo,34.75,2024-01-06,Centro
+420,Sobremesa,71.73,2024-03-20,Centro
+421,Combo Família,49.32,2024-05-30,Centro
+422,Combo Família,45.82,2024-06-14,Centro
+423,Sobremesa,96.01,2024-06-03,Centro
+424,Bebida,108.03,2024-04-09,Centro
+425,Prato Executivo,85.23,2024-06-14,Centro
+426,Prato Executivo,59.97,2024-03-29,Centro
+427,Combo Família,60.97,2024-03-27,Centro
+428,Prato Executivo,178.7,2024-02-02,Centro
+429,Prato Executivo,167.41,2024-05-21,Centro
+430,Prato Executivo,27.52,2024-02-26,Centro
+431,Prato Executivo,123.33,2024-02-05,Centro
+432,Prato Executivo,90.38,2024-03-07,Centro
+433,Bebida,128.65,2024-04-18,Centro
+434,Prato Executivo,113.5,2024-02-18,Centro
+435,Bebida,161.73,2024-03-05,Centro
+436,Bebida,26.05,2024-02-29,Centro
+437,Bebida,72.68,2024-04-17,Centro
+438,Sobremesa,177.61,2024-05-08,Centro
+439,Lanche,45.08,2024-05-01,Centro
+440,Prato Executivo,36.01,2024-01-26,Centro
+441,Lanche,135.28,2024-03-03,Centro
+442,Prato Executivo,143.28,2024-04-26,Centro
+443,Combo Família,125.93,2024-02-08,Centro
+444,Lanche,143.07,2024-01-13,Centro
+445,Lanche,129.46,2024-02-27,Centro
+446,Combo Família,37.4,2024-05-02,Centro
+447,Sobremesa,115.36,2024-04-29,Centro
+448,Sobremesa,143.18,2024-01-24,Centro
+449,Prato Executivo,157.81,2024-05-01,Centro
+450,Sobremesa,55.63,2024-02-04,Centro
+451,Bebida,36.03,2024-05-13,Centro
+452,Sobremesa,143.88,2024-04-11,Centro
+453,Sobremesa,57.33,2024-01-23,Centro
+454,Lanche,20.27,2024-03-04,Centro
+455,Prato Executivo,151.16,2024-05-27,Centro
+456,Bebida,98.49,2024-03-18,Centro
+457,Prato Executivo,68.89,2024-05-03,Centro
+458,Lanche,16.89,2024-05-14,Centro
+459,Prato Executivo,20.83,2024-01-06,Centro
+460,Lanche,145.78,2024-06-16,Centro
+461,Bebida,95.8,2024-03-01,Centro
+462,Prato Executivo,39.7,2024-05-22,Centro
+463,Bebida,74.15,2024-03-25,Centro
+464,Prato Executivo,42.28,2024-04-13,Centro
+465,Prato Executivo,33.63,2024-03-05,Centro
+466,Prato Executivo,60.59,2024-06-02,Centro
+467,Bebida,105.67,2024-01-22,Centro
+468,Prato Executivo,49.65,2024-06-10,Centro
+469,Sobremesa,71.71,2024-02-07,Centro
+470,Sobremesa,93.86,2024-06-07,Centro
+471,Combo Família,84.3,2024-01-05,Centro
+472,Prato Executivo,36.22,2024-01-03,Centro
+473,Prato Executivo,21.41,2024-01-17,Centro
+474,Prato Executivo,20.85,2024-04-08,Centro
+475,Lanche,72.78,2024-02-17,Centro
+476,Prato Executivo,133.6,2024-04-17,Centro
+477,Sobremesa,36.66,2024-05-27,Centro
+478,Bebida,144.85,2024-01-05,Centro
+479,Bebida,133.09,2024-04-04,Centro
+480,Bebida,15.65,2024-05-13,Centro
+481,Sobremesa,19.41,2024-03-17,Centro
+482,Lanche,47.18,2024-06-15,Centro
+483,Lanche,24.26,2024-04-29,Centro
+484,Prato Executivo,102.67,2024-01-07,Centro
+485,Combo Família,21.54,2024-04-07,Centro
+486,Prato Executivo,147.44,2024-03-10,Centro
+487,Lanche,96.34,2024-01-24,Centro
+488,Lanche,135.11,2024-06-20,Centro
+489,Bebida,138.87,2024-02-10,Centro
+490,Bebida,98.62,2024-01-16,Centro
+491,Prato Executivo,167.68,2024-02-10,Centro
+492,Sobremesa,178.39,2024-05-28,Centro
+493,Combo Família,74.27,2024-04-17,Centro
+494,Sobremesa,35.77,2024-05-27,Centro
+495,Combo Família,74.93,2024-03-24,Centro
+496,Combo Família,51.85,2024-01-22,Centro
+497,Lanche,102.62,2024-03-10,Centro
+498,Lanche,77.43,2024-02-05,Centro
+499,Bebida,94.27,2024-04-10,Centro
+500,Bebida,140.93,2024-02-18,Centro
+501,Prato Executivo,60.21,2024-06-23,Centro
+502,Sobremesa,103.68,2024-03-08,Centro
+503,Bebida,70.3,2024-02-26,Centro
+504,Sobremesa,144.52,2024-06-26,Centro
+505,Prato Executivo,120.52,2024-04-03,Centro
+506,Prato Executivo,16.4,2024-01-31,Centro
+507,Lanche,123.91,2024-03-27,Centro
+508,Prato Executivo,43.08,2024-02-15,Centro
+509,Lanche,134.54,2024-05-08,Centro
+510,Bebida,108.61,2024-04-13,Centro
+511,Lanche,81.24,2024-05-11,Centro
+512,Sobremesa,129.52,2024-06-18,Centro
+513,Prato Executivo,156.34,2024-05-11,Centro
+514,Combo Família,143.49,2024-03-02,Centro
+515,Sobremesa,104.99,2024-02-06,Centro
+516,Prato Executivo,134.24,2024-04-05,Centro
+517,Combo Família,83.3,2024-03-21,Centro
+518,Lanche,145.19,2024-02-26,Centro
+519,Lanche,151.79,2024-05-26,Centro
+520,Prato Executivo,37.65,2024-06-12,Centro
+521,Bebida,54.28,2024-03-09,Centro
+522,Sobremesa,59.55,2024-05-02,Centro
+523,Sobremesa,42.4,2024-06-26,Centro
+524,Bebida,79.77,2024-01-03,Centro
+525,Sobremesa,46.85,2024-03-06,Centro
+526,Lanche,113.26,2024-05-12,Centro
+527,Combo Família,31.77,2024-03-30,Centro
+528,Bebida,59.54,2024-05-22,Centro
+529,Lanche,124.81,2024-03-26,Centro
+530,Lanche,80.76,2024-01-12,Centro
+531,Combo Família,84.54,2024-03-19,Centro
+532,Combo Família,146.66,2024-03-13,Centro
+533,Bebida,177.44,2024-06-01,Centro
+534,Lanche,108.24,2024-01-27,Centro
+535,Lanche,28.05,2024-01-28,Centro
+536,Lanche,31.98,2024-01-26,Centro
+537,Combo Família,174.8,2024-04-12,Centro
+538,Sobremesa,127.07,2024-06-28,Centro
+539,Bebida,139.16,2024-04-21,Centro
+540,Bebida,126.5,2024-05-26,Centro
+541,Bebida,44.64,2024-06-02,Centro
+542,Prato Executivo,88.98,2024-04-18,Centro
+543,Sobremesa,146.68,2024-04-19,Centro
+544,Sobremesa,157.95,2024-02-13,Centro
+545,Lanche,54.16,2024-06-21,Centro
+546,Prato Executivo,113.33,2024-05-21,Centro
+547,Prato Executivo,40.92,2024-06-05,Centro
+548,Combo Família,173.12,2024-06-26,Centro
+549,Combo Família,56.61,2024-03-03,Centro
+550,Lanche,134.89,2024-01-26,Centro
+551,Lanche,53.13,2024-06-03,Centro
+552,Prato Executivo,116.65,2024-03-26,Centro
+553,Bebida,123.78,2024-06-21,Centro
+554,Sobremesa,69.19,2024-05-05,Centro
+555,Lanche,150.11,2024-02-16,Centro
+556,Prato Executivo,161.09,2024-03-04,Centro
+557,Lanche,156.09,2024-04-19,Centro
+558,Prato Executivo,69.58,2024-03-11,Centro
+559,Bebida,137.82,2024-02-20,Centro
+560,Prato Executivo,107.32,2024-02-07,Centro
+561,Bebida,112.78,2024-04-26,Centro
+562,Prato Executivo,93.78,2024-01-07,Centro
+563,Lanche,114.04,2024-01-17,Centro
+564,Bebida,37.38,2024-01-08,Centro
+565,Prato Executivo,82.46,2024-05-12,Centro
+566,Lanche,44.32,2024-01-06,Centro
+567,Bebida,61.22,2024-03-16,Centro
+568,Sobremesa,36.09,2024-01-22,Centro
+569,Combo Família,50.06,2024-04-15,Centro
+570,Lanche,144.02,2024-01-07,Centro
+571,Bebida,105.72,2024-01-05,Centro
+572,Bebida,18.9,2024-03-14,Centro
+573,Lanche,145.11,2024-05-05,Centro
+574,Bebida,165.06,2024-01-20,Centro
+575,Prato Executivo,160.27,2024-03-30,Centro
+576,Prato Executivo,150.8,2024-05-25,Centro
+577,Combo Família,178.72,2024-04-22,Centro
+578,Combo Família,111.76,2024-05-15,Centro
+579,Bebida,173.83,2024-02-26,Centro
+580,Lanche,171.56,2024-06-18,Centro
+581,Combo Família,66.68,2024-01-27,Centro
+582,Sobremesa,157.47,2024-04-18,Centro
+583,Combo Família,145.76,2024-03-19,Centro
+584,Sobremesa,143.01,2024-01-06,Centro
+585,Bebida,162.89,2024-06-18,Centro
+586,Lanche,78.39,2024-05-06,Centro
+587,Lanche,81.01,2024-02-11,Centro
+588,Prato Executivo,120.61,2024-01-10,Centro
+589,Lanche,136.74,2024-05-01,Centro
+590,Bebida,160.16,2024-04-08,Centro
+591,Prato Executivo,159.51,2024-01-09,Centro
+592,Prato Executivo,134.02,2024-06-26,Centro
+593,Combo Família,172.89,2024-05-09,Centro
+594,Lanche,44.47,2024-03-24,Centro
+595,Prato Executivo,171.81,2024-02-12,Centro
+596,Prato Executivo,25.59,2024-02-18,Centro
+597,Sobremesa,106.68,2024-03-22,Centro
+598,Combo Família,29.88,2024-01-11,Centro
+599,Lanche,108.72,2024-03-07,Centro
+600,Bebida,79.37,2024-02-09,Centro
+601,Combo Família,28.47,2024-01-21,Centro
+602,Combo Família,121.94,2024-01-23,Centro
+603,Combo Família,135.65,2024-03-03,Centro
+604,Lanche,43.74,2024-03-09,Centro
+605,Sobremesa,129.58,2024-03-04,Centro
+606,Bebida,44.54,2024-05-04,Centro
+607,Combo Família,37.67,2024-04-03,Centro
+608,Prato Executivo,39.31,2024-02-04,Centro
+609,Sobremesa,113.85,2024-06-24,Centro
+610,Prato Executivo,143.5,2024-05-11,Centro
+611,Bebida,113.49,2024-03-25,Centro
+612,Lanche,148.54,2024-01-09,Centro
+613,Prato Executivo,112.59,2024-06-13,Centro
+614,Bebida,146.56,2024-05-14,Centro
+615,Lanche,176.13,2024-03-24,Centro

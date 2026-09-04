@@ -1,0 +1,721 @@
+id_venda,produto,valor,data_venda,filial
+1,Combo Família,74.5,2024-01-13,Shopping
+2,Combo Família,65.35,2024-02-01,Shopping
+3,Prato Executivo,37.69,2024-04-02,Shopping
+4,Prato Executivo,166.19,2024-03-05,Shopping
+5,Prato Executivo,118.54,2024-05-07,Shopping
+6,Sobremesa,20.24,2024-03-13,Shopping
+7,Combo Família,99.31,2024-06-28,Shopping
+8,Prato Executivo,29.16,2024-02-23,Shopping
+9,Lanche,109.67,2024-03-05,Shopping
+10,Lanche,98.98,2024-01-01,Shopping
+11,Combo Família,28.67,2024-02-14,Shopping
+12,Bebida,149.62,2024-02-12,Shopping
+13,Lanche,58.28,2024-05-17,Shopping
+14,Sobremesa,104.34,2024-03-01,Shopping
+15,Prato Executivo,120.44,2024-02-06,Shopping
+16,Sobremesa,173.78,2024-02-26,Shopping
+17,Prato Executivo,96.48,2024-04-11,Shopping
+18,Prato Executivo,166.36,2024-05-21,Shopping
+19,Lanche,73.55,2024-06-25,Shopping
+20,Bebida,156.48,2024-01-09,Shopping
+21,Sobremesa,53.91,2024-05-31,Shopping
+22,Combo Família,131.73,2024-03-11,Shopping
+23,Lanche,29.62,2024-05-25,Shopping
+24,Combo Família,177.7,2024-01-07,Shopping
+25,Bebida,172.4,2024-04-22,Shopping
+26,Prato Executivo,87.97,2024-06-16,Shopping
+27,Prato Executivo,101.45,2024-01-08,Shopping
+28,Combo Família,113.63,2024-05-22,Shopping
+29,Prato Executivo,60.38,2024-01-21,Shopping
+30,Bebida,126.29,2024-06-25,Shopping
+31,Sobremesa,130.26,2024-05-13,Shopping
+32,Combo Família,101.64,2024-06-12,Shopping
+33,Prato Executivo,39.38,2024-06-10,Shopping
+34,Combo Família,166.67,2024-02-26,Shopping
+35,Sobremesa,33.98,2024-03-15,Shopping
+36,Lanche,118.81,2024-05-04,Shopping
+37,Lanche,32.01,2024-02-01,Shopping
+38,Lanche,39.11,2024-02-25,Shopping
+39,Combo Família,18.39,2024-01-18,Shopping
+40,Sobremesa,74.96,2024-06-08,Shopping
+41,Combo Família,120.53,2024-02-14,Shopping
+42,Sobremesa,101.05,2024-03-14,Shopping
+43,Sobremesa,126.3,2024-03-22,Shopping
+44,Bebida,126.38,2024-03-08,Shopping
+45,Prato Executivo,38.13,2024-05-20,Shopping
+46,Combo Família,24.46,2024-06-13,Shopping
+47,Sobremesa,118.18,2024-04-13,Shopping
+48,Sobremesa,122.78,2024-05-30,Shopping
+49,Bebida,106.86,2024-01-20,Shopping
+50,Combo Família,55.55,2024-06-22,Shopping
+51,Bebida,148.78,2024-01-21,Shopping
+52,Sobremesa,27.49,2024-01-12,Shopping
+53,Bebida,119.33,2024-01-05,Shopping
+54,Lanche,34.87,2024-02-13,Shopping
+55,Prato Executivo,122.98,2024-05-30,Shopping
+56,Bebida,83.92,2024-02-24,Shopping
+57,Combo Família,133.49,2024-05-22,Shopping
+58,Lanche,23.61,2024-03-17,Shopping
+59,Sobremesa,106.59,2024-01-19,Shopping
+60,Bebida,38.9,2024-03-26,Shopping
+61,Bebida,127.59,2024-02-11,Shopping
+62,Bebida,34.79,2024-02-22,Shopping
+63,Prato Executivo,27.14,2024-04-03,Shopping
+64,Bebida,132.67,2024-05-22,Shopping
+65,Sobremesa,25.48,2024-04-15,Shopping
+66,Bebida,52.05,2024-02-10,Shopping
+67,Bebida,151.08,2024-05-09,Shopping
+68,Sobremesa,148.6,2024-05-05,Shopping
+69,Combo Família,155.93,2024-02-12,Shopping
+70,Prato Executivo,68.81,2024-06-02,Shopping
+71,Lanche,102.13,2024-05-31,Shopping
+72,Sobremesa,142.6,2024-04-18,Shopping
+73,Bebida,37.6,2024-02-23,Shopping
+74,Prato Executivo,134.52,2024-03-04,Shopping
+75,Bebida,31.09,2024-03-20,Shopping
+76,Sobremesa,165.69,2024-02-03,Shopping
+77,Prato Executivo,120.16,2024-02-25,Shopping
+78,Combo Família,96.4,2024-01-25,Shopping
+79,Prato Executivo,94.98,2024-01-28,Shopping
+80,Sobremesa,44.92,2024-05-13,Shopping
+81,Prato Executivo,72.08,2024-01-24,Shopping
+82,Prato Executivo,134.98,2024-03-25,Shopping
+83,Prato Executivo,104.26,2024-03-18,Shopping
+84,Prato Executivo,102.34,2024-01-09,Shopping
+85,Bebida,47.22,2024-05-29,Shopping
+86,Sobremesa,128.91,2024-06-26,Shopping
+87,Sobremesa,79.69,2024-04-24,Shopping
+88,Combo Família,45.15,2024-04-30,Shopping
+89,Sobremesa,170.72,2024-02-11,Shopping
+90,Lanche,98.62,2024-05-31,Shopping
+91,Bebida,102.13,2024-05-21,Shopping
+92,Sobremesa,176.93,2024-03-19,Shopping
+93,Prato Executivo,75.46,2024-05-07,Shopping
+94,Prato Executivo,170.6,2024-06-20,Shopping
+95,Combo Família,129.66,2024-04-18,Shopping
+96,Combo Família,119.46,2024-02-05,Shopping
+97,Bebida,53.68,2024-02-29,Shopping
+98,Lanche,23.54,2024-02-03,Shopping
+99,Lanche,87.23,2024-02-29,Shopping
+100,Bebida,16.68,2024-06-09,Shopping
+101,Lanche,26.72,2024-02-04,Shopping
+102,Sobremesa,113.23,2024-06-09,Shopping
+103,Prato Executivo,134.54,2024-02-21,Shopping
+104,Prato Executivo,42.71,2024-03-30,Shopping
+105,Prato Executivo,135.86,2024-04-05,Shopping
+106,Bebida,171.7,2024-01-23,Shopping
+107,Combo Família,137.62,2024-02-03,Shopping
+108,Lanche,144.48,2024-02-24,Shopping
+109,Bebida,130.62,2024-01-11,Shopping
+110,Prato Executivo,52.08,2024-05-15,Shopping
+111,Bebida,74.55,2024-04-08,Shopping
+112,Combo Família,171.63,2024-06-01,Shopping
+113,Sobremesa,124.1,2024-06-04,Shopping
+114,Combo Família,145.19,2024-03-03,Shopping
+115,Combo Família,174.83,2024-05-27,Shopping
+116,Combo Família,53.19,2024-01-12,Shopping
+117,Bebida,68.08,2024-03-18,Shopping
+118,Bebida,121.39,2024-04-29,Shopping
+119,Lanche,19.02,2024-03-24,Shopping
+120,Lanche,109.25,2024-05-13,Shopping
+121,Lanche,148.43,2024-06-03,Shopping
+122,Lanche,115.72,2024-03-17,Shopping
+123,Combo Família,63.74,2024-02-19,Shopping
+124,Bebida,134.48,2024-04-14,Shopping
+125,Bebida,39.1,2024-06-05,Shopping
+126,Combo Família,162.64,2024-06-26,Shopping
+127,Combo Família,31.65,2024-05-26,Shopping
+128,Lanche,157.48,2024-02-14,Shopping
+129,Lanche,97.14,2024-02-06,Shopping
+130,Prato Executivo,85.73,2024-04-13,Shopping
+131,Combo Família,97.61,2024-03-13,Shopping
+132,Prato Executivo,48.03,2024-04-19,Shopping
+133,Combo Família,90.52,2024-06-15,Shopping
+134,Bebida,155.2,2024-04-08,Shopping
+135,Prato Executivo,147.16,2024-03-04,Shopping
+136,Combo Família,41.9,2024-06-05,Shopping
+137,Lanche,126.11,2024-03-20,Shopping
+138,Lanche,156.38,2024-04-18,Shopping
+139,Lanche,150.26,2024-01-25,Shopping
+140,Lanche,85.23,2024-04-01,Shopping
+141,Combo Família,22.94,2024-03-17,Shopping
+142,Bebida,168.64,2024-01-23,Shopping
+143,Bebida,80.32,2024-02-08,Shopping
+144,Bebida,74.56,2024-05-06,Shopping
+145,Prato Executivo,140.32,2024-02-02,Shopping
+146,Prato Executivo,58.56,2024-01-24,Shopping
+147,Lanche,152.73,2024-01-11,Shopping
+148,Combo Família,27.55,2024-01-05,Shopping
+149,Bebida,137.22,2024-03-19,Shopping
+150,Bebida,174.36,2024-03-28,Shopping
+151,Bebida,179.3,2024-04-22,Shopping
+152,Sobremesa,167.43,2024-04-13,Shopping
+153,Bebida,158.68,2024-04-06,Shopping
+154,Lanche,61.02,2024-06-28,Shopping
+155,Bebida,174.5,2024-02-14,Shopping
+156,Combo Família,168.1,2024-05-08,Shopping
+157,Prato Executivo,103.17,2024-01-15,Shopping
+158,Prato Executivo,81.34,2024-06-01,Shopping
+159,Prato Executivo,33.03,2024-03-06,Shopping
+160,Prato Executivo,112.45,2024-03-03,Shopping
+161,Prato Executivo,130.59,2024-01-25,Shopping
+162,Bebida,81.66,2024-04-01,Shopping
+163,Combo Família,81.99,2024-03-12,Shopping
+164,Bebida,109.6,2024-06-24,Shopping
+165,Bebida,19.58,2024-02-02,Shopping
+166,Lanche,173.05,2024-03-16,Shopping
+167,Combo Família,62.83,2024-06-11,Shopping
+168,Prato Executivo,38.25,2024-05-25,Shopping
+169,Lanche,15.91,2024-05-17,Shopping
+170,Sobremesa,156.39,2024-04-04,Shopping
+171,Sobremesa,157.43,2024-06-06,Shopping
+172,Combo Família,30.73,2024-02-10,Shopping
+173,Bebida,40.12,2024-05-25,Shopping
+174,Prato Executivo,88.9,2024-04-14,Shopping
+175,Lanche,45.64,2024-03-03,Shopping
+176,Prato Executivo,136.41,2024-02-09,Shopping
+177,Combo Família,24.58,2024-04-03,Shopping
+178,Sobremesa,105.7,2024-01-01,Shopping
+179,Sobremesa,78.16,2024-05-08,Shopping
+180,Sobremesa,91.72,2024-02-12,Shopping
+181,Lanche,85.08,2024-03-11,Shopping
+182,Prato Executivo,40.27,2024-02-04,Shopping
+183,Prato Executivo,51.35,2024-03-24,Shopping
+184,Bebida,25.69,2024-03-07,Shopping
+185,Combo Família,34.02,2024-02-03,Shopping
+186,Lanche,176.35,2024-06-08,Shopping
+187,Prato Executivo,61.16,2024-05-16,Shopping
+188,Prato Executivo,65.66,2024-03-10,Shopping
+189,Combo Família,35.97,2024-01-11,Shopping
+190,Prato Executivo,139.6,2024-06-01,Shopping
+191,Sobremesa,167.48,2024-05-05,Shopping
+192,Bebida,145.31,2024-04-10,Shopping
+193,Lanche,116.08,2024-04-18,Shopping
+194,Bebida,149.18,2024-01-02,Shopping
+195,Prato Executivo,81.7,2024-03-26,Shopping
+196,Lanche,156.82,2024-02-03,Shopping
+197,Combo Família,146.76,2024-04-27,Shopping
+198,Prato Executivo,15.28,2024-06-16,Shopping
+199,Prato Executivo,95.49,2024-04-05,Shopping
+200,Sobremesa,58.66,2024-04-18,Shopping
+201,Prato Executivo,29.23,2024-04-30,Shopping
+202,Lanche,154.62,2024-06-16,Shopping
+203,Prato Executivo,16.31,2024-01-07,Shopping
+204,Prato Executivo,135.48,2024-02-25,Shopping
+205,Bebida,178.05,2024-02-18,Shopping
+206,Sobremesa,94.53,2024-05-08,Shopping
+207,Sobremesa,76.25,2024-03-21,Shopping
+208,Lanche,114.96,2024-05-18,Shopping
+209,Sobremesa,147.78,2024-03-26,Shopping
+210,Combo Família,54.64,2024-06-24,Shopping
+211,Bebida,56.37,2024-05-18,Shopping
+212,Bebida,115.18,2024-01-04,Shopping
+213,Prato Executivo,170.08,2024-06-26,Shopping
+214,Lanche,64.24,2024-06-20,Shopping
+215,Prato Executivo,77.16,2024-01-08,Shopping
+216,Combo Família,178.9,2024-03-11,Shopping
+217,Combo Família,44.08,2024-06-23,Shopping
+218,Bebida,27.7,2024-05-30,Shopping
+219,Prato Executivo,112.31,2024-03-25,Shopping
+220,Sobremesa,19.0,2024-04-08,Shopping
+221,Bebida,44.77,2024-01-06,Shopping
+222,Lanche,117.66,2024-04-11,Shopping
+223,Sobremesa,123.82,2024-04-29,Shopping
+224,Lanche,99.22,2024-03-05,Shopping
+225,Prato Executivo,78.32,2024-02-25,Shopping
+226,Lanche,110.07,2024-05-29,Shopping
+227,Prato Executivo,121.16,2024-03-21,Shopping
+228,Combo Família,147.57,2024-02-17,Shopping
+229,Bebida,145.8,2024-03-08,Shopping
+230,Bebida,124.69,2024-03-29,Shopping
+231,Lanche,162.55,2024-02-16,Shopping
+232,Lanche,153.27,2024-04-10,Shopping
+233,Combo Família,36.99,2024-06-04,Shopping
+234,Bebida,172.85,2024-05-13,Shopping
+235,Bebida,162.14,2024-02-11,Shopping
+236,Bebida,67.95,2024-03-25,Shopping
+237,Combo Família,18.33,2024-04-07,Shopping
+238,Combo Família,114.66,2024-05-02,Shopping
+239,Bebida,87.34,2024-05-16,Shopping
+240,Lanche,138.68,2024-03-28,Shopping
+241,Combo Família,101.56,2024-02-26,Shopping
+242,Combo Família,27.62,2024-04-28,Shopping
+243,Sobremesa,55.37,2024-01-23,Shopping
+244,Prato Executivo,160.62,2024-05-01,Shopping
+245,Lanche,21.22,2024-06-10,Shopping
+246,Lanche,136.55,2024-05-07,Shopping
+247,Sobremesa,63.17,2024-03-19,Shopping
+248,Lanche,89.69,2024-05-28,Shopping
+249,Prato Executivo,102.62,2024-04-05,Shopping
+250,Lanche,56.26,2024-04-07,Shopping
+251,Sobremesa,122.57,2024-06-02,Shopping
+252,Sobremesa,129.42,2024-02-04,Shopping
+253,Combo Família,29.03,2024-05-20,Shopping
+254,Combo Família,76.7,2024-05-02,Shopping
+255,Combo Família,137.82,2024-04-05,Shopping
+256,Sobremesa,134.07,2024-01-14,Shopping
+257,Combo Família,104.86,2024-05-17,Shopping
+258,Combo Família,143.32,2024-02-09,Shopping
+259,Bebida,32.76,2024-06-10,Shopping
+260,Lanche,34.5,2024-05-22,Shopping
+261,Combo Família,123.49,2024-03-06,Shopping
+262,Sobremesa,129.4,2024-03-19,Shopping
+263,Lanche,149.4,2024-01-05,Shopping
+264,Sobremesa,44.87,2024-03-30,Shopping
+265,Combo Família,100.27,2024-01-11,Shopping
+266,Combo Família,124.04,2024-06-26,Shopping
+267,Lanche,51.91,2024-04-25,Shopping
+268,Sobremesa,100.29,2024-02-12,Shopping
+269,Combo Família,120.34,2024-05-24,Shopping
+270,Lanche,50.38,2024-01-04,Shopping
+271,Lanche,76.97,2024-04-08,Shopping
+272,Bebida,50.7,2024-01-21,Shopping
+273,Combo Família,163.99,2024-01-10,Shopping
+274,Combo Família,54.07,2024-02-14,Shopping
+275,Prato Executivo,34.94,2024-02-22,Shopping
+276,Combo Família,20.8,2024-05-10,Shopping
+277,Sobremesa,22.42,2024-06-09,Shopping
+278,Prato Executivo,46.61,2024-05-19,Shopping
+279,Bebida,115.35,2024-05-13,Shopping
+280,Combo Família,17.91,2024-04-11,Shopping
+281,Bebida,62.31,2024-03-07,Shopping
+282,Lanche,24.6,2024-02-15,Shopping
+283,Combo Família,81.6,2024-06-19,Shopping
+284,Bebida,23.02,2024-04-03,Shopping
+285,Sobremesa,115.24,2024-04-11,Shopping
+286,Combo Família,128.59,2024-01-03,Shopping
+287,Prato Executivo,135.67,2024-03-23,Shopping
+288,Bebida,52.02,2024-05-02,Shopping
+289,Lanche,158.3,2024-03-30,Shopping
+290,Prato Executivo,128.9,2024-04-20,Shopping
+291,Combo Família,24.35,2024-05-25,Shopping
+292,Prato Executivo,87.73,2024-01-04,Shopping
+293,Lanche,141.68,2024-06-11,Shopping
+294,Sobremesa,66.3,2024-05-27,Shopping
+295,Sobremesa,77.96,2024-03-16,Shopping
+296,Combo Família,118.88,2024-05-17,Shopping
+297,Bebida,24.15,2024-01-12,Shopping
+298,Sobremesa,174.54,2024-02-25,Shopping
+299,Sobremesa,43.79,2024-01-20,Shopping
+300,Lanche,19.4,2024-04-24,Shopping
+301,Sobremesa,15.88,2024-06-03,Shopping
+302,Lanche,80.93,2024-04-18,Shopping
+303,Sobremesa,160.9,2024-05-08,Shopping
+304,Prato Executivo,150.26,2024-01-26,Shopping
+305,Lanche,165.49,2024-06-17,Shopping
+306,Bebida,103.07,2024-02-04,Shopping
+307,Bebida,89.04,2024-04-04,Shopping
+308,Prato Executivo,78.67,2024-05-02,Shopping
+309,Bebida,22.66,2024-06-03,Shopping
+310,Sobremesa,165.07,2024-06-17,Shopping
+311,Combo Família,96.87,2024-04-17,Shopping
+312,Prato Executivo,90.09,2024-04-13,Shopping
+313,Lanche,100.0,2024-03-16,Shopping
+314,Sobremesa,146.04,2024-04-12,Shopping
+315,Bebida,52.04,2024-05-01,Shopping
+316,Combo Família,132.13,2024-04-26,Shopping
+317,Prato Executivo,132.28,2024-04-16,Shopping
+318,Lanche,155.18,2024-03-20,Shopping
+319,Sobremesa,16.43,2024-02-05,Shopping
+320,Lanche,43.12,2024-01-10,Shopping
+321,Lanche,92.72,2024-03-16,Shopping
+322,Prato Executivo,155.34,2024-03-12,Shopping
+323,Lanche,174.24,2024-04-19,Shopping
+324,Bebida,113.15,2024-06-11,Shopping
+325,Combo Família,50.0,2024-05-06,Shopping
+326,Combo Família,45.46,2024-05-24,Shopping
+327,Combo Família,120.51,2024-04-14,Shopping
+328,Bebida,49.66,2024-06-15,Shopping
+329,Combo Família,106.26,2024-06-18,Shopping
+330,Prato Executivo,152.74,2024-01-28,Shopping
+331,Sobremesa,79.32,2024-04-25,Shopping
+332,Combo Família,77.45,2024-04-01,Shopping
+333,Prato Executivo,20.96,2024-06-23,Shopping
+334,Bebida,56.92,2024-04-15,Shopping
+335,Lanche,130.2,2024-01-03,Shopping
+336,Sobremesa,74.46,2024-02-07,Shopping
+337,Bebida,41.12,2024-01-24,Shopping
+338,Sobremesa,32.45,2024-02-06,Shopping
+339,Sobremesa,30.68,2024-01-18,Shopping
+340,Sobremesa,123.76,2024-05-20,Shopping
+341,Lanche,116.08,2024-03-29,Shopping
+342,Combo Família,100.56,2024-04-30,Shopping
+343,Sobremesa,97.55,2024-06-28,Shopping
+344,Combo Família,40.27,2024-04-26,Shopping
+345,Lanche,97.6,2024-03-27,Shopping
+346,Bebida,24.89,2024-02-18,Shopping
+347,Combo Família,167.77,2024-05-15,Shopping
+348,Bebida,24.57,2024-04-01,Shopping
+349,Sobremesa,84.88,2024-05-16,Shopping
+350,Combo Família,15.09,2024-01-05,Shopping
+351,Lanche,144.71,2024-01-30,Shopping
+352,Prato Executivo,42.42,2024-01-24,Shopping
+353,Combo Família,167.61,2024-05-02,Shopping
+354,Bebida,22.26,2024-04-03,Shopping
+355,Prato Executivo,150.43,2024-02-27,Shopping
+356,Bebida,123.35,2024-02-25,Shopping
+357,Combo Família,56.21,2024-04-19,Shopping
+358,Lanche,48.4,2024-06-22,Shopping
+359,Sobremesa,74.02,2024-06-28,Shopping
+360,Sobremesa,151.69,2024-03-25,Shopping
+361,Lanche,157.22,2024-04-30,Shopping
+362,Sobremesa,43.92,2024-01-16,Shopping
+363,Combo Família,73.32,2024-06-19,Shopping
+364,Sobremesa,54.19,2024-01-04,Shopping
+365,Bebida,35.24,2024-03-02,Shopping
+366,Prato Executivo,121.66,2024-05-10,Shopping
+367,Combo Família,72.07,2024-06-23,Shopping
+368,Combo Família,52.19,2024-01-31,Shopping
+369,Lanche,157.89,2024-04-28,Shopping
+370,Combo Família,138.47,2024-02-03,Shopping
+371,Sobremesa,142.67,2024-01-10,Shopping
+372,Lanche,21.47,2024-03-17,Shopping
+373,Prato Executivo,166.0,2024-04-13,Shopping
+374,Prato Executivo,109.83,2024-02-17,Shopping
+375,Bebida,98.13,2024-06-24,Shopping
+376,Bebida,16.75,2024-04-20,Shopping
+377,Combo Família,163.11,2024-03-19,Shopping
+378,Sobremesa,104.74,2024-03-28,Shopping
+379,Combo Família,151.15,2024-03-24,Shopping
+380,Prato Executivo,123.16,2024-01-21,Shopping
+381,Prato Executivo,146.45,2024-04-19,Shopping
+382,Lanche,129.33,2024-05-21,Shopping
+383,Lanche,166.96,2024-03-16,Shopping
+384,Bebida,52.2,2024-03-17,Shopping
+385,Bebida,48.35,2024-06-12,Shopping
+386,Combo Família,132.57,2024-04-19,Shopping
+387,Combo Família,97.73,2024-02-23,Shopping
+388,Bebida,113.86,2024-01-01,Shopping
+389,Sobremesa,131.91,2024-05-28,Shopping
+390,Sobremesa,105.33,2024-04-22,Shopping
+391,Bebida,144.97,2024-04-22,Shopping
+392,Prato Executivo,67.61,2024-02-20,Shopping
+393,Bebida,156.73,2024-02-03,Shopping
+394,Bebida,32.77,2024-03-29,Shopping
+395,Prato Executivo,119.61,2024-05-16,Shopping
+396,Bebida,161.87,2024-02-23,Shopping
+397,Combo Família,56.69,2024-04-04,Shopping
+398,Prato Executivo,68.93,2024-06-28,Shopping
+399,Bebida,65.4,2024-02-09,Shopping
+400,Lanche,108.1,2024-02-11,Shopping
+401,Combo Família,83.12,2024-02-12,Shopping
+402,Bebida,32.81,2024-06-13,Shopping
+403,Sobremesa,162.06,2024-04-05,Shopping
+404,Bebida,48.77,2024-06-14,Shopping
+405,Bebida,103.12,2024-06-19,Shopping
+406,Combo Família,113.14,2024-03-16,Shopping
+407,Bebida,21.72,2024-01-10,Shopping
+408,Prato Executivo,30.79,2024-02-24,Shopping
+409,Combo Família,175.33,2024-04-07,Shopping
+410,Sobremesa,124.64,2024-03-09,Shopping
+411,Combo Família,20.54,2024-01-01,Shopping
+412,Bebida,146.04,2024-06-27,Shopping
+413,Sobremesa,98.91,2024-02-24,Shopping
+414,Sobremesa,27.41,2024-04-21,Shopping
+415,Combo Família,127.32,2024-06-19,Shopping
+416,Bebida,97.39,2024-04-08,Shopping
+417,Combo Família,48.81,2024-05-05,Shopping
+418,Prato Executivo,159.82,2024-01-07,Shopping
+419,Prato Executivo,63.08,2024-05-05,Shopping
+420,Bebida,61.95,2024-06-01,Shopping
+421,Sobremesa,60.01,2024-06-14,Shopping
+422,Lanche,141.63,2024-01-16,Shopping
+423,Lanche,131.51,2024-02-11,Shopping
+424,Bebida,164.02,2024-01-09,Shopping
+425,Combo Família,52.84,2024-06-14,Shopping
+426,Bebida,144.75,2024-02-19,Shopping
+427,Prato Executivo,109.55,2024-04-05,Shopping
+428,Lanche,65.93,2024-03-26,Shopping
+429,Lanche,20.85,2024-05-03,Shopping
+430,Combo Família,150.13,2024-06-10,Shopping
+431,Combo Família,54.78,2024-02-28,Shopping
+432,Bebida,119.24,2024-05-22,Shopping
+433,Combo Família,105.56,2024-02-22,Shopping
+434,Lanche,15.73,2024-02-05,Shopping
+435,Sobremesa,179.07,2024-01-20,Shopping
+436,Sobremesa,149.36,2024-03-07,Shopping
+437,Lanche,95.27,2024-04-10,Shopping
+438,Prato Executivo,127.26,2024-05-20,Shopping
+439,Sobremesa,93.64,2024-06-01,Shopping
+440,Lanche,137.86,2024-04-04,Shopping
+441,Combo Família,37.16,2024-03-14,Shopping
+442,Combo Família,88.65,2024-02-01,Shopping
+443,Combo Família,70.36,2024-06-13,Shopping
+444,Prato Executivo,90.84,2024-03-12,Shopping
+445,Combo Família,89.33,2024-05-17,Shopping
+446,Combo Família,38.61,2024-04-22,Shopping
+447,Lanche,176.12,2024-06-16,Shopping
+448,Sobremesa,17.56,2024-06-24,Shopping
+449,Prato Executivo,16.66,2024-05-07,Shopping
+450,Sobremesa,76.62,2024-04-29,Shopping
+451,Lanche,117.36,2024-01-25,Shopping
+452,Sobremesa,44.64,2024-01-03,Shopping
+453,Sobremesa,102.98,2024-04-08,Shopping
+454,Lanche,134.26,2024-05-06,Shopping
+455,Combo Família,30.52,2024-05-14,Shopping
+456,Sobremesa,177.43,2024-02-15,Shopping
+457,Bebida,70.56,2024-03-31,Shopping
+458,Sobremesa,121.0,2024-06-04,Shopping
+459,Lanche,33.27,2024-01-18,Shopping
+460,Lanche,132.07,2024-03-10,Shopping
+461,Prato Executivo,153.68,2024-06-19,Shopping
+462,Lanche,32.37,2024-02-05,Shopping
+463,Prato Executivo,35.77,2024-02-27,Shopping
+464,Prato Executivo,61.37,2024-03-25,Shopping
+465,Lanche,16.97,2024-05-03,Shopping
+466,Combo Família,177.7,2024-02-15,Shopping
+467,Prato Executivo,113.73,2024-05-22,Shopping
+468,Bebida,115.25,2024-02-12,Shopping
+469,Sobremesa,173.23,2024-03-07,Shopping
+470,Lanche,152.28,2024-04-13,Shopping
+471,Prato Executivo,149.35,2024-01-03,Shopping
+472,Sobremesa,71.02,2024-05-18,Shopping
+473,Combo Família,70.25,2024-04-30,Shopping
+474,Prato Executivo,63.14,2024-05-30,Shopping
+475,Combo Família,72.2,2024-02-19,Shopping
+476,Bebida,75.97,2024-03-12,Shopping
+477,Prato Executivo,38.1,2024-06-10,Shopping
+478,Bebida,73.73,2024-01-13,Shopping
+479,Prato Executivo,88.71,2024-03-29,Shopping
+480,Sobremesa,66.04,2024-03-28,Shopping
+481,Lanche,42.28,2024-03-21,Shopping
+482,Lanche,76.61,2024-03-19,Shopping
+483,Combo Família,94.35,2024-05-14,Shopping
+484,Bebida,133.92,2024-02-05,Shopping
+485,Lanche,132.35,2024-06-09,Shopping
+486,Bebida,48.44,2024-06-10,Shopping
+487,Combo Família,21.05,2024-02-02,Shopping
+488,Bebida,65.13,2024-06-24,Shopping
+489,Bebida,40.93,2024-02-17,Shopping
+490,Bebida,80.31,2024-01-10,Shopping
+491,Sobremesa,176.59,2024-03-12,Shopping
+492,Sobremesa,44.88,2024-05-23,Shopping
+493,Bebida,67.61,2024-06-01,Shopping
+494,Sobremesa,134.64,2024-04-26,Shopping
+495,Bebida,99.02,2024-05-26,Shopping
+496,Bebida,22.25,2024-02-17,Shopping
+497,Prato Executivo,41.68,2024-06-07,Shopping
+498,Bebida,169.32,2024-04-24,Shopping
+499,Bebida,32.02,2024-01-25,Shopping
+500,Sobremesa,119.79,2024-01-24,Shopping
+501,Bebida,145.73,2024-02-18,Shopping
+502,Combo Família,58.8,2024-01-13,Shopping
+503,Prato Executivo,134.64,2024-02-20,Shopping
+504,Bebida,43.03,2024-06-27,Shopping
+505,Lanche,61.98,2024-02-13,Shopping
+506,Bebida,66.45,2024-04-24,Shopping
+507,Bebida,179.41,2024-06-24,Shopping
+508,Prato Executivo,50.4,2024-02-15,Shopping
+509,Bebida,36.32,2024-05-05,Shopping
+510,Prato Executivo,167.74,2024-03-22,Shopping
+511,Combo Família,41.72,2024-02-21,Shopping
+512,Prato Executivo,160.08,2024-06-20,Shopping
+513,Bebida,122.33,2024-04-28,Shopping
+514,Lanche,110.18,2024-03-19,Shopping
+515,Sobremesa,138.97,2024-05-26,Shopping
+516,Lanche,134.79,2024-06-11,Shopping
+517,Bebida,33.24,2024-05-20,Shopping
+518,Sobremesa,179.91,2024-06-05,Shopping
+519,Lanche,170.41,2024-02-27,Shopping
+520,Sobremesa,162.94,2024-03-02,Shopping
+521,Sobremesa,117.68,2024-02-11,Shopping
+522,Bebida,101.26,2024-05-05,Shopping
+523,Bebida,103.49,2024-05-24,Shopping
+524,Sobremesa,17.46,2024-04-28,Shopping
+525,Sobremesa,97.41,2024-04-17,Shopping
+526,Lanche,117.92,2024-05-18,Shopping
+527,Combo Família,123.69,2024-02-02,Shopping
+528,Combo Família,69.8,2024-03-06,Shopping
+529,Sobremesa,92.76,2024-05-07,Shopping
+530,Combo Família,119.99,2024-01-10,Shopping
+531,Prato Executivo,85.67,2024-06-12,Shopping
+532,Sobremesa,173.75,2024-01-31,Shopping
+533,Sobremesa,131.4,2024-05-21,Shopping
+534,Prato Executivo,15.21,2024-04-20,Shopping
+535,Prato Executivo,18.84,2024-06-01,Shopping
+536,Bebida,128.9,2024-05-19,Shopping
+537,Lanche,83.09,2024-04-02,Shopping
+538,Bebida,153.51,2024-05-16,Shopping
+539,Sobremesa,43.55,2024-03-03,Shopping
+540,Combo Família,17.28,2024-04-15,Shopping
+541,Prato Executivo,79.03,2024-06-13,Shopping
+542,Sobremesa,136.45,2024-01-16,Shopping
+543,Prato Executivo,175.34,2024-03-05,Shopping
+544,Bebida,160.8,2024-01-04,Shopping
+545,Prato Executivo,94.87,2024-04-06,Shopping
+546,Lanche,149.11,2024-05-20,Shopping
+547,Prato Executivo,26.6,2024-01-07,Shopping
+548,Sobremesa,109.42,2024-04-08,Shopping
+549,Bebida,167.51,2024-03-15,Shopping
+550,Prato Executivo,80.4,2024-05-20,Shopping
+551,Bebida,173.42,2024-02-09,Shopping
+552,Sobremesa,51.41,2024-01-30,Shopping
+553,Bebida,32.43,2024-01-18,Shopping
+554,Sobremesa,101.59,2024-03-14,Shopping
+555,Lanche,164.7,2024-03-28,Shopping
+556,Bebida,66.36,2024-06-14,Shopping
+557,Combo Família,147.03,2024-03-24,Shopping
+558,Sobremesa,42.92,2024-01-31,Shopping
+559,Lanche,138.02,2024-05-05,Shopping
+560,Prato Executivo,106.91,2024-01-12,Shopping
+561,Sobremesa,43.88,2024-03-03,Shopping
+562,Bebida,133.48,2024-04-27,Shopping
+563,Prato Executivo,132.77,2024-02-15,Shopping
+564,Sobremesa,100.05,2024-04-17,Shopping
+565,Sobremesa,52.2,2024-03-22,Shopping
+566,Combo Família,36.83,2024-06-20,Shopping
+567,Combo Família,172.95,2024-02-21,Shopping
+568,Sobremesa,123.21,2024-06-12,Shopping
+569,Combo Família,148.52,2024-04-22,Shopping
+570,Lanche,130.0,2024-05-14,Shopping
+571,Sobremesa,151.86,2024-01-31,Shopping
+572,Bebida,41.81,2024-01-04,Shopping
+573,Prato Executivo,97.0,2024-05-11,Shopping
+574,Prato Executivo,125.08,2024-03-27,Shopping
+575,Sobremesa,32.06,2024-02-25,Shopping
+576,Bebida,39.74,2024-06-10,Shopping
+577,Prato Executivo,119.61,2024-02-28,Shopping
+578,Prato Executivo,158.34,2024-03-19,Shopping
+579,Combo Família,123.97,2024-05-10,Shopping
+580,Sobremesa,20.97,2024-06-22,Shopping
+581,Bebida,175.12,2024-06-10,Shopping
+582,Sobremesa,38.02,2024-04-27,Shopping
+583,Prato Executivo,53.37,2024-01-20,Shopping
+584,Prato Executivo,175.87,2024-01-20,Shopping
+585,Prato Executivo,142.22,2024-05-04,Shopping
+586,Prato Executivo,169.54,2024-04-01,Shopping
+587,Prato Executivo,148.09,2024-01-24,Shopping
+588,Lanche,122.54,2024-05-05,Shopping
+589,Prato Executivo,61.95,2024-06-18,Shopping
+590,Prato Executivo,68.94,2024-01-12,Shopping
+591,Bebida,171.3,2024-05-28,Shopping
+592,Lanche,157.0,2024-03-03,Shopping
+593,Sobremesa,74.32,2024-03-12,Shopping
+594,Bebida,76.59,2024-05-09,Shopping
+595,Combo Família,64.12,2024-02-14,Shopping
+596,Sobremesa,68.81,2024-01-29,Shopping
+597,Combo Família,157.01,2024-06-22,Shopping
+598,Combo Família,16.73,2024-03-03,Shopping
+599,Sobremesa,86.95,2024-01-31,Shopping
+600,Prato Executivo,170.57,2024-05-04,Shopping
+601,Combo Família,104.53,2024-02-09,Shopping
+602,Combo Família,89.32,2024-05-19,Shopping
+603,Bebida,66.54,2024-01-13,Shopping
+604,Sobremesa,27.2,2024-04-03,Shopping
+605,Prato Executivo,52.04,2024-03-13,Shopping
+606,Lanche,29.93,2024-06-21,Shopping
+607,Prato Executivo,35.91,2024-04-03,Shopping
+608,Lanche,41.98,2024-06-15,Shopping
+609,Prato Executivo,64.83,2024-02-14,Shopping
+610,Combo Família,16.82,2024-03-26,Shopping
+611,Combo Família,171.77,2024-05-26,Shopping
+612,Prato Executivo,35.43,2024-01-29,Shopping
+613,Combo Família,78.22,2024-06-15,Shopping
+614,Combo Família,160.12,2024-05-19,Shopping
+615,Prato Executivo,32.58,2024-05-01,Shopping
+616,Lanche,94.79,2024-02-13,Shopping
+617,Prato Executivo,154.39,2024-05-27,Shopping
+618,Prato Executivo,106.9,2024-05-31,Shopping
+619,Lanche,49.71,2024-02-22,Shopping
+620,Prato Executivo,136.36,2024-04-15,Shopping
+621,Lanche,127.42,2024-01-11,Shopping
+622,Bebida,74.76,2024-03-11,Shopping
+623,Lanche,22.64,2024-01-28,Shopping
+624,Sobremesa,16.3,2024-04-10,Shopping
+625,Sobremesa,151.19,2024-04-08,Shopping
+626,Prato Executivo,68.06,2024-04-05,Shopping
+627,Sobremesa,37.73,2024-05-01,Shopping
+628,Bebida,100.56,2024-06-15,Shopping
+629,Lanche,166.94,2024-02-05,Shopping
+630,Combo Família,16.4,2024-02-08,Shopping
+631,Combo Família,24.26,2024-02-08,Shopping
+632,Combo Família,83.81,2024-06-16,Shopping
+633,Bebida,126.53,2024-01-17,Shopping
+634,Combo Família,93.56,2024-01-06,Shopping
+635,Lanche,163.1,2024-01-29,Shopping
+636,Prato Executivo,22.27,2024-05-18,Shopping
+637,Prato Executivo,71.12,2024-04-14,Shopping
+638,Lanche,72.97,2024-06-14,Shopping
+639,Bebida,71.12,2024-02-06,Shopping
+640,Sobremesa,95.47,2024-03-11,Shopping
+641,Lanche,145.45,2024-04-09,Shopping
+642,Bebida,67.45,2024-01-14,Shopping
+643,Bebida,137.84,2024-06-14,Shopping
+644,Prato Executivo,39.17,2024-05-24,Shopping
+645,Lanche,107.52,2024-01-26,Shopping
+646,Bebida,76.89,2024-05-31,Shopping
+647,Lanche,103.97,2024-03-21,Shopping
+648,Lanche,32.78,2024-03-01,Shopping
+649,Sobremesa,172.32,2024-06-19,Shopping
+650,Prato Executivo,164.53,2024-04-03,Shopping
+651,Lanche,151.36,2024-02-10,Shopping
+652,Lanche,162.31,2024-05-25,Shopping
+653,Combo Família,39.2,2024-05-08,Shopping
+654,Bebida,98.11,2024-02-04,Shopping
+655,Bebida,67.46,2024-05-01,Shopping
+656,Bebida,161.42,2024-04-23,Shopping
+657,Lanche,46.26,2024-02-19,Shopping
+658,Prato Executivo,51.29,2024-03-18,Shopping
+659,Lanche,128.31,2024-05-31,Shopping
+660,Bebida,29.67,2024-02-01,Shopping
+661,Combo Família,135.84,2024-05-10,Shopping
+662,Sobremesa,59.24,2024-05-29,Shopping
+663,Combo Família,124.05,2024-06-17,Shopping
+664,Lanche,159.05,2024-02-28,Shopping
+665,Bebida,115.59,2024-02-17,Shopping
+666,Lanche,50.09,2024-06-17,Shopping
+667,Bebida,23.11,2024-03-24,Shopping
+668,Prato Executivo,22.36,2024-04-12,Shopping
+669,Sobremesa,29.65,2024-04-02,Shopping
+670,Lanche,110.67,2024-04-02,Shopping
+671,Combo Família,72.46,2024-04-22,Shopping
+672,Lanche,55.11,2024-03-17,Shopping
+673,Sobremesa,51.19,2024-03-11,Shopping
+674,Sobremesa,171.52,2024-03-13,Shopping
+675,Bebida,34.6,2024-04-28,Shopping
+676,Combo Família,65.29,2024-05-27,Shopping
+677,Combo Família,92.79,2024-04-09,Shopping
+678,Combo Família,15.07,2024-05-01,Shopping
+679,Bebida,166.96,2024-03-15,Shopping
+680,Combo Família,31.35,2024-05-19,Shopping
+681,Bebida,127.61,2024-03-11,Shopping
+682,Combo Família,118.76,2024-03-16,Shopping
+683,Bebida,148.5,2024-01-10,Shopping
+684,Lanche,122.48,2024-02-17,Shopping
+685,Sobremesa,141.95,2024-05-12,Shopping
+686,Prato Executivo,84.51,2024-01-16,Shopping
+687,Sobremesa,95.64,2024-02-10,Shopping
+688,Bebida,130.77,2024-05-19,Shopping
+689,Bebida,108.79,2024-06-06,Shopping
+690,Bebida,99.4,2024-03-15,Shopping
+691,Sobremesa,48.92,2024-03-14,Shopping
+692,Bebida,57.59,2024-04-01,Shopping
+693,Prato Executivo,74.15,2024-05-18,Shopping
+694,Prato Executivo,16.53,2024-03-25,Shopping
+695,Lanche,83.86,2024-02-01,Shopping
+696,Sobremesa,15.46,2024-03-18,Shopping
+697,Lanche,108.23,2024-02-15,Shopping
+698,Bebida,131.16,2024-05-03,Shopping
+699,Sobremesa,107.75,2024-01-26,Shopping
+700,Sobremesa,129.43,2024-04-19,Shopping
+701,Bebida,15.0,2024-01-24,Shopping
+702,Combo Família,24.81,2024-06-23,Shopping
+703,Sobremesa,130.25,2024-04-25,Shopping
+704,Bebida,147.48,2024-01-26,Shopping
+705,Combo Família,133.42,2024-06-21,Shopping
+706,Combo Família,124.4,2024-04-13,Shopping
+707,Combo Família,131.72,2024-04-19,Shopping
+708,Sobremesa,137.03,2024-01-12,Shopping
+709,Prato Executivo,134.52,2024-02-03,Shopping
+710,Sobremesa,136.77,2024-05-25,Shopping
+711,Combo Família,27.21,2024-03-25,Shopping
+712,Prato Executivo,25.44,2024-04-20,Shopping
+713,Combo Família,74.58,2024-06-26,Shopping
+714,Lanche,102.05,2024-03-18,Shopping
+715,Sobremesa,140.83,2024-03-09,Shopping
+716,Combo Família,70.23,2024-05-24,Shopping
+717,Sobremesa,60.39,2024-01-12,Shopping
+718,Lanche,143.94,2024-03-22,Shopping
+719,Lanche,56.14,2024-06-02,Shopping
+720,Lanche,150.44,2024-02-11,Shopping
